@@ -23,15 +23,16 @@ Step 3:  Connect to a VPN Server
 
 Step 4: Verify Your IP Address
 - After connection:
-+ IP address: 104.254.89.61
-+ Location: Toronto, Canada
-+ Speed: 1.1 Mbps
+  + IP address: 104.254.89.61
+  + Location: Toronto, Canada
+  + Speed: 1.1 Mbps
 <img src="images/4.png">  
 <img src="images/6.png">
+
 - Before connection:
-+ IP address: 106.195.5.69
-+ Location: Pune, India
-+ Speed: 3.4 Mbps
+  + IP address: 106.195.5.69
+  + Location: Pune, India
+  + Speed: 3.4 Mbps
 <img src="images/7.png">
 <img src="images/8.png">  
 
